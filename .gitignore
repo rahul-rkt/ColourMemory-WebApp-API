@@ -6,3 +6,4 @@ Homestead.json
 /Homestead
 Vagrantfile
 /storage/logs/laravel.log
+*.bkup
