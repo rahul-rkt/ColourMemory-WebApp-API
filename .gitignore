@@ -1,0 +1,8 @@
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+#.env
+/Homestead
+Vagrantfile
+/storage/logs/laravel.log
